@@ -1,0 +1,1 @@
+the folder name "nodejs" is important to make lambda layers work
